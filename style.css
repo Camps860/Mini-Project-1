@@ -1,0 +1,28 @@
+body {
+    position: relative;
+    margin: 0;
+
+
+
+}
+h1 {
+    text-align:center;
+    font-size:24px;
+    color:rgb(54, 30, 30);
+}
+
+
+nav {
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px;
+    margin: auto;
+    border-bottom: 5px solid tan;
+    background-color: rgb(23, 73, 45);
+    font-size: 13px;
+}
+li {
+    list-style-type: none;
+}
+
