@@ -1,14 +1,11 @@
 body {
-    position: relative;
-    margin: 0;
-
-
-
+    text-align: center;
 }
+
 h1 {
-    text-align:center;
-    font-size:24px;
-    color:rgb(54, 30, 30);
+    text-align: center;
+    font-size: 24px;
+    color: rgb(54, 30, 30);
 }
 
 
@@ -19,10 +16,19 @@ nav {
     padding: 0px;
     margin: auto;
     border-bottom: 5px solid tan;
-    background-color: rgb(23, 73, 45);
+    background-color: rgb(29, 83, 53);
     font-size: 13px;
 }
+
 li {
     list-style-type: none;
 }
-
+div {
+    width: 150px tan;
+    height:150px;
+    margin: 200px black;
+    padding: 200px tan;
+    border: solid 25px;
+    display:block;
+    
+}
